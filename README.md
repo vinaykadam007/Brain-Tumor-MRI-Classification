@@ -20,9 +20,6 @@ Early detection and classification of brain tumors is an important research doma
 | `opencv`              | 4.1.2       |
 | `scikit-learn`        | 0.22.2      |
 
-## Dataset
-
-The dataset was taken from [here](https://www.kaggle.com/masoudnickparvar/brain-tumor-mri-dataset).
 
 ### Dataset Details
 
